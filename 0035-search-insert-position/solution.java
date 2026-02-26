@@ -5,7 +5,7 @@ class Solution {
     int mid;
 
     while(low <= high){
-        mid = low + (high - low) / 2;
+        mid = (low + high) / 2;
         if(nums[mid] < target){
             low = mid + 1;
         }
