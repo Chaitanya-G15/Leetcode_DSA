@@ -1,0 +1,24 @@
+class Solution {
+    public int minAbsoluteDifference(int[] nums) {
+        int lastone = -1;
+        int lasttwo = -1;
+        int ans = Integer.MAX_VALUE;
+
+        for(int i=0;i<nums.length;i++){
+            if(nums[i] == 1){
+                lastone = i;
+                if(lasttwo != -1){
+                    ans = Math.min(ans,Math.abs(lastone - lasttwo));
+                }
+            }
+            else if(nums[i] == 2){
+                lasttwo = i;
+                if(lastone != -1){
+                    ans = Math.min(ans,Math.abs(lastone - lasttwo));
+                }
+                
+            }
+        }
+        return (ans == Integer.MAX_VALUE) ? -1:ans;
+    }
+}
