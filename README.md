@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
