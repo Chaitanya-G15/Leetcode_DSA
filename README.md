@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,5 +21,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
