@@ -23,4 +23,12 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
