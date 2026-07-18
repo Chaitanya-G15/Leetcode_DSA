@@ -9,11 +9,13 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +33,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
