@@ -23,6 +23,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Math
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
