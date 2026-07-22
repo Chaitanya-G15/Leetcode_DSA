@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -64,4 +66,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
