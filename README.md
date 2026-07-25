@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -49,6 +50,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
