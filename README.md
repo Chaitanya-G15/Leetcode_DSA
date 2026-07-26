@@ -11,12 +11,14 @@
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
