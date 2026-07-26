@@ -17,6 +17,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
