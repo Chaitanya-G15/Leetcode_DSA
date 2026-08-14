@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
 ## Memoization
 |  |
@@ -87,4 +91,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
