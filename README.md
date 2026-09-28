@@ -13,6 +13,7 @@
 | [0260-single-number-iii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -97,8 +99,13 @@
 | [0125-valid-palindrome](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
