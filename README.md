@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
 ## Sorting
@@ -90,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
 |  |
