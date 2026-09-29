@@ -54,6 +54,7 @@
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3136-valid-word](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3136-valid-word) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0767-reorganize-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
