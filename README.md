@@ -21,6 +21,7 @@
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0202-happy-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -102,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -114,4 +117,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
