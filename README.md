@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0049-group-anagrams) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaitanya-G15/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
